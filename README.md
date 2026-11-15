@@ -4,9 +4,9 @@
 
 Landing page for the two Nebraska DEF CON groups.
 
-| Group | Area | Website | Chat |
-|---|---|---|---|
-| DC308 | Western Nebraska | https://www.dc308.com/ | mailto:toor@dc308.com |
-| DC402 | Omaha | https://dc402.org/ | mailto:info@dc402.org (Slack invite) |
+| Group | Area | Website | Chat | Email |
+|---|---|---|---|---|
+| DC308 | Western Nebraska | https://www.dc308.com/ | | toor@dc308.com |
+| DC402 | Omaha | https://dc402.org/ | https://dc402.slack.com/ | info@dc402.org |
 
 Open `index.html` in a browser. No build step.
