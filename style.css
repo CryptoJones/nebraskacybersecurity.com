@@ -19,17 +19,21 @@ main {
   padding: 40px 24px;
   text-align: center;
 }
-.group:first-child { background: #0c1422; }
-.group:last-child { background: #12100e; }
+.left { background: #0c1422; }
+.right { background: #12100e; }
 img {
-  width: min(420px, 78%);
+  width: min(360px, 78%);
   height: auto;
   border-radius: 12px;
 }
-.group:last-child img {
+img.stamp {
   background: #f4f1ea;
   padding: 28px;
   border-radius: 50%;
+}
+img.wordmark {
+  width: min(460px, 86%);
+  border-radius: 0;
 }
 h1 { margin: 8px 0 0; letter-spacing: 0.12em; font-size: 1.6rem; }
 p { margin: 0; color: #b7b2a8; }
@@ -45,5 +49,5 @@ a {
 a:hover { background: #f4f1ea; color: #070b12; }
 @media (max-width: 720px) {
   main { grid-template-columns: 1fr; }
-  .group { min-height: 100vh; }
+  .group { min-height: 70vh; }
 }

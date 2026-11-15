@@ -8,5 +8,7 @@ Landing page for the two Nebraska DEF CON groups.
 |---|---|---|---|---|
 | DC308 | Western Nebraska | https://www.dc308.com/ | | toor@dc308.com |
 | DC402 | Omaha | https://dc402.org/ | https://dc402.slack.com/ | info@dc402.org |
+| Cyber Tatanka | Lincoln | https://cybertatanka.org/ | | |
+| OWASP | Lincoln / Omaha | https://owasp.org/chapters/eastern-nebraska | | |
 
 Open `index.html` in a browser. No build step.
